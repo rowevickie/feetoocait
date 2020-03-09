@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://haithooro.jeffreylewis.me/sitemap.xml
